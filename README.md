@@ -5,4 +5,4 @@ Npm : 2007051035
 
 KUIS
 
-Poject : Kamera
+Project : Kamera
